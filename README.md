@@ -19,3 +19,13 @@ https://issm224.github.io/rrg/
 
 ![View of Gray's Arch from Underneath](graysarch2.jpg)
 *Photograph by Isaac Smith, 2017*
+
+
+## An Image of High Bridge, Kentucky
+
+![High Bridge, Kentucky](highBridge.jpg)
+*Lidar Image, produced by Isaac Smith, 2021*
+
+## An Amimation of High Bridge, Kentucky
+
+[High Bridge Animation](.com)

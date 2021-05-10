@@ -29,3 +29,13 @@ https://issm224.github.io/rrg/
 
 [High Bridge Animation](https://www.youtube.com/watch?v=EQ29kmdPV54)
 *YouTube Video, produced by Isaac Smith, 2021*
+
+## A Site Map of High Bridge, Kentucky
+
+[High Bridge Site Map](https://issm224.github.io/rrg/site-map/)
+*Mapbox Site Map, produced by Isaac Smith, 2021*
+
+## A Tour of High Bridge, Kentucky
+
+[High Bridge Tour](https://issm224.github.io/rrg/tour/)
+*Cesium Ion Tour, produced by Isaac Smith, 2021*
